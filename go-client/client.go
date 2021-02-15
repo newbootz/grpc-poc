@@ -3,9 +3,10 @@ package main
 import (
 	// "context"
 	"fmt"
-	"go-client/services"
 	"log"
 	"time"
+
+	"github.com/newbootz/grpc-poc/go-client/services"
 
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"

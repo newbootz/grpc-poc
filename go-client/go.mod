@@ -1,4 +1,4 @@
-module go-client
+module github.com/newbootz/grpc-poc/go-client
 
 go 1.15
 
